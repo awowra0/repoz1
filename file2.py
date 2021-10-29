@@ -1,0 +1,2 @@
+def truth():
+	return true
